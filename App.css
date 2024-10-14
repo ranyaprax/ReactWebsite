@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto; 
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+/* div{
+  
+} */
+
+.display{
+  border-radius: 10px;
+  background-color: lightgrey;
+  color: black;
+}
+
